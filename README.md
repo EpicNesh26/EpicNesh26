@@ -7,10 +7,22 @@ Hello! I'm a passionate web developer with a focus on creating meaningful and us
 ## Skills
 
 - **Languages:** HTML, CSS, JavaScript, Python
-- **Frontend:** React, Angular, Vue.js
-- **Backend:** Node.js, Express, Django
-- **Database:** MongoDB, MySQL, PostgreSQL
-- **Tools:** Git, Webpack, npm
+- **Frontend:** 
+  - ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
+  - ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
+  - ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)
+- **Backend:** 
+  - ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
+  - ![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express&logoColor=white)
+  - ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white)
+- **Database:** 
+  - ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
+  - ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
+  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
+- **Tools:** 
+  - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
+  - ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=webpack&logoColor=white)
+  - ![npm](https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm&logoColor=white)
 
 ## Projects
 
@@ -50,5 +62,6 @@ Brief description of the project, including technologies used and your role in t
 ## Additional Information
 
 Feel free to add any additional information, such as hobbies, interests, or volunteer work. Make your portfolio reflect your personality and showcase your passion for web development!
+
 
 
