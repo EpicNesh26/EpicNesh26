@@ -22,9 +22,9 @@ Digital Craftsmen , Web Developer
 
 ### Socials
 
-<p> 
-<a href="Downloads\icons8-discord.svg"
-</p>
+[![website](.\Downloads\icons8-discord.svg)](https://discord.com/users/1093126786533031997#gh-light-mode-only)
+[![website](.\Downloads\icons8-discord.svg)](https://discord.com/users/1093126786533031997#gh-dark-mode-only)
+&nbsp;&nbsp;
 
 ### Badges
 
