@@ -6,21 +6,6 @@ Digital Craftsmen , Web Developer
 
 👋 Hello there! I'm Nesh, a passionate web developer with a love for turning ideas into interactive and engaging digital experiences. My journey in the world of web development has equipped me with a strong foundation in HTML, CSS, and JavaScript, along with expertise in Python. 🚀 Whether it's crafting pixel-perfect user interfaces or architecting robust backend systems, I thrive on the challenges that come with creating seamless online solutions. I am committed to staying up-to-date with the latest technologies and trends to ensure that my work is not just current but forward-thinking. 💡 Beyond the code, I am an advocate for clean and maintainable software design. I believe in the power of collaboration and open communication to bring ideas to life effectively. 🌐 Let's connect and build something extraordinary together! Explore my portfolio to see some of my projects, and feel free to reach out for collaboration, advice, or just a good coding chat. Happy coding! 🚀✨
 
-<br>
-<br>
-<br>
-
-<p>
-<a href="https://www.github.com/EpicNesh26">
-  <ion-icon name="logo-github"></ion-icon>
-</a>
-  
-</p>
-
-
-
-
-
 * 🌍  I'm based in India
 * ✉️  You can contact me at [soninesh2006@gmail.com](mailto:soninesh2006@gmail.com)
 * 🧠  I'm learning MongoDB and Tensorflow in Python
@@ -37,7 +22,7 @@ Digital Craftsmen , Web Developer
 
 ### Socials
 
-
+<p align="left"> <a href="https://discord.com/users/1093126786533031997" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/EpicNesh26" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/soninesh2006" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@neshsoni7844" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
 ### Badges
 
