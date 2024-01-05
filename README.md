@@ -10,7 +10,9 @@ Digital Craftsmen , Web Developer
 <br>
 <br>
 
+<p align="centre">
 <a href=https://cdn.dribbble.com/userupload/3234656/file/original-035e87c5a88c791e04d7aa20039bcc55.png?resize=752x /> </a>
+</p>
 
 
 
