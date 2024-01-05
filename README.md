@@ -13,8 +13,8 @@ Digital Craftsmen , Web Developer
 [![website](./img/youtube-light.svg)](www.youtube.com/@neshsoni7844#gh-light-mode-only)
 [![website](./img/youtube-dark.svg)](www.youtube.com/@neshsoni7844#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/discord-light.svg)](discord.com/users/1093126786533031997#gh-light-mode-only)
-[![website](./img/discord-dark.svg)](discord.com/users/1093126786533031997#gh-dark-mode-only)
+[![website](./img/"C:\Users\kashy\Downloads\icons8-discord.svg")](discord.com/users/1093126786533031997#gh-light-mode-only)
+[![website](./img/"C:\Users\kashy\Downloads\icons8-discord.svg")](discord.com/users/1093126786533031997#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
