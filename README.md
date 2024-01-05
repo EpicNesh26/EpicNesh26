@@ -12,6 +12,13 @@
 👋 Hello there! I'm Nesh, a passionate web developer with a love for turning ideas into interactive and engaging digital experiences. My journey in the world of web development has equipped me with a strong foundation in HTML, CSS, and JavaScript, along with expertise in Python.<br><br>🚀 Whether it's crafting pixel-perfect user interfaces or architecting robust backend systems, I thrive on the challenges that come with creating seamless online solutions. I am committed to staying up-to-date with the latest technologies and trends to ensure that my work is not just current but forward-thinking.<br><br>💡 Beyond the code, I am an advocate for clean and maintainable software design. I believe in the power of collaboration and open communication to bring ideas to life effectively.<br><br>🌐 Let's connect and build something extraordinary together! Explore my portfolio to see some of my projects, and feel free to reach out for collaboration, advice, or just a good coding chat.<br><br>Happy coding! 🚀✨
 
 
+* 🌍  I'm based in India
+* ✉️  You can contact me at [soninesh2006@gmail.com](mailto:soninesh2006@gmail.com)
+* 🧠  I'm learning MongoDB and Tensorflow in Python
+* 🤝  I'm open to collaborating on Innovative and Brainstrom Projects
+* ⚡  I'm Secretly a Batman ... But Dont tell anyone!!
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/discord.com/users/1093126786533031997) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/soninesh2006) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@www.youtube.com/@neshsoni7844) 
 
