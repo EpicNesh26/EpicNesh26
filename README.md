@@ -1,67 +1,21 @@
-# EpicNesh26
+### Hi there 👋, My Nam
+#### Digital Craftsman , Continuous Learner , Inquisitive Programmer
+Hey there! 👋 I'm Nesh, a budding web developer on an exciting learning journey! 🚀
 
-## About Me
+I'm passionate about crafting engaging and user-friendly web experiences. Currently diving into the world of web technologies, my focus is on mastering HTML, CSS, and JavaScript, and I'm eager to explore frameworks like React and tools like Node.js.
 
-Hello! I'm a passionate web developer with a focus on creating meaningful and user-friendly experiences. I have a strong foundation in front-end and back-end technologies, and I'm always eager to learn and explore new technologies.
+🌱 I believe in the power of continuous learning and collaboration. Each line of code is a step toward creating something impactful, and I'm thrilled to be on this coding adventure.
 
-## Skills
+Let's connect, learn, and code together! Check out my projects and feel free to share your insights. I'm always open to new ideas and opportunities.
 
-- **Languages:** HTML, CSS, JavaScript, Python
-- **Frontend:** 
-  - ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react&logoColor=white)
-  - ![Angular](https://img.shields.io/badge/-Angular-red?style=flat-square&logo=angular&logoColor=white)
-  - ![Vue.js](https://img.shields.io/badge/-Vue.js-green?style=flat-square&logo=vue.js&logoColor=white)
-- **Backend:** 
-  - ![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat-square&logo=node.js&logoColor=white)
-  - ![Express](https://img.shields.io/badge/-Express-blue?style=flat-square&logo=express&logoColor=white)
-  - ![Django](https://img.shields.io/badge/-Django-green?style=flat-square&logo=django&logoColor=white)
-- **Database:** 
-  - ![MongoDB](https://img.shields.io/badge/-MongoDB-green?style=flat-square&logo=mongodb&logoColor=white)
-  - ![MySQL](https://img.shields.io/badge/-MySQL-blue?style=flat-square&logo=mysql&logoColor=white)
-  - ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql&logoColor=white)
-- **Tools:** 
-  - ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=white)
-  - ![Webpack](https://img.shields.io/badge/-Webpack-blue?style=flat-square&logo=webpack&logoColor=white)
-  - ![npm](https://img.shields.io/badge/-npm-red?style=flat-square&logo=npm&logoColor=white)
-
-## Projects
-
-### Project 1: [Project Name 1](link-to-repository)
-Brief description of the project, including technologies used and your role in the development.
-
-### Project 2: [Project Name 2](link-to-repository)
-Brief description of the project, including technologies used and your role in the development.
-
-### Project 3: [Project Name 3](link-to-repository)
-Brief description of the project, including technologies used and your role in the development.
-
-## Experience
-
-### Company Name, Position
-- Worked on XYZ project using ABC technologies.
-- Collaborated with a cross-functional team to achieve project goals.
-
-### Company Name, Position
-- Contributed to the development of DEF system.
-- Implemented new features and improvements based on user feedback.
-
-## Education
-
-- Bachelor of Science in Computer Science, University Name, Graduation Year
-
-## Certifications
-
-- Web Developer Certification, Certification Body, Year
-
-## Contact
-
-- **LinkedIn:** [Your LinkedIn Profile](link-to-linkedin)
-- **Email:** your.email@example.com
-- **GitHub:** [Your GitHub Profile](link-to-github)
-
-## Additional Information
-
-Feel free to add any additional information, such as hobbies, interests, or volunteer work. Make your portfolio reflect your personality and showcase your passion for web development!
+Happy coding! 🚀✨
+.
 
 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/EpicNesh26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/soninesh2006/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://dsc.gg/nesh.26)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](soninesh2006@gmail.com)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicNesh26)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=EpicNesh26&show_icons=true)  
 
