@@ -16,7 +16,9 @@ I'm Nesh.
 </pre>
 
 ### 🌐 Socials:
-
+<p align="left">
+<a href="https://instagram.com/soninesh2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soninesh2006" height="30" width="40" /></a>
+</p>
 
 ### 💻 Tech Stack:
 <p align="left">
