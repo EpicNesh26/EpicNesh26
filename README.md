@@ -1,14 +1,11 @@
-## Hi There!
+### Hi There!
 <br>
-
-
-
 I'm Nesh.
 <br>
 Digital Craftsmen , Web Developer
 
 
-## About Me:
+### About Me:
 
 👋 **Full-Stack Web Developer** with expertise in **[Python 🐍]**. <br>
 🚀 I thrive on creating flawless online solutions and always evolving.<br>
