@@ -17,12 +17,8 @@ I'm Nesh.
 
 ### 🌐 Socials:
 <p align="left"> 
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@1.7.5/src/app/ci.min.css"
-/>
-<i className="ci ci-instagram ci-2x">soninesh2006</i>
-<i class="ci ci-spotify ci-2x"></i>
+
+<a href="" class="ssk ssk-icon ssk-twitter"></a>
 </p>
 
 
