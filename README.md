@@ -16,10 +16,6 @@ I'm Nesh.
 </pre>
 
 ### 🌐 Socials:
-<p align="left"> 
-
-<a href="" class="ssk ssk-icon ssk-twitter"></a>
-</p>
 
 
 ### 💻 Tech Stack:
