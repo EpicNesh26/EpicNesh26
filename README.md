@@ -8,7 +8,7 @@ I'm Nesh.
 Digital Craftsmen , Web Developer
 
 
-**✨About Me:**
+## ✨About Me:
 
 👋 full-Stack Web Developer with expertise in Python<br><br>🚀 Whether it's crafting pixel-perfect user interfaces or architecting robust backend systems, I thrive on the challenges that come with creating seamless online solutions. I am committed to staying up-to-date with the latest technologies and trends to ensure that my work is not just current but forward-thinking.<br><br>💡 Beyond the code, I am an advocate for clean and maintainable software design. I believe in the power of collaboration and open communication to bring ideas to life effectively.<br><br>🌐 Let's connect and build something extraordinary together! Explore my portfolio to see some of my projects, and feel free to reach out for collaboration, advice, or just a good coding chat.<br><br>Happy coding! 🚀✨
 
