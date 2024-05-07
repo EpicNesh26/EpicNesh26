@@ -66,10 +66,11 @@ I'm Nesh.
 </div>
 
 
-## 📊 GitHub Stats:
+## GitHub Stats:
+<pre>
 ![](https://github-readme-stats.vercel.app/api?username=EpicNesh26&theme=dark&hide_border=True&include_all_commits=True&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicNesh26&theme=dark&hide_border=True&include_all_commits=false&count_private=false&layout=compact)
-
+</pre>
 
 ### ✍️Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
