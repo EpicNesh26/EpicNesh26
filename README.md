@@ -16,24 +16,11 @@ I'm Nesh.
 </pre>
 
 ### Socials:
-<div align="left">
-  <a href="https://discord.gg/b7edYh2H" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="www.youtube.com/@neshsoni7844" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-  </a>
-  <a href="soninesh2006@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="soninesh2006" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-###
+<p align="left">
+<a href="https://instagram.com/soninesh2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soninesh2006" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/www.youtube.com/@neshsoni7844" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@neshsoni7844" height="30" width="40" /></a>
+<a href="https://discord.gg/https://discord.gg/b7edYh2H" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/b7edYh2H" height="30" width="40" /></a>
+</p>
 
 ### Tech Stack:
 <div align="left">
