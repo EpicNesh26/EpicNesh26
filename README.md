@@ -14,10 +14,6 @@ I'm Nesh.
 🌍 Based in India         💻 Crafting digital experiences.  👨‍💻 Coding with passion. 
 🤹 Digital craftsmanship. 🖥️ Tech innovation.               📈 strategic planning  
 </pre>
-
-
-<br>
-
 ### 🌐 Socials:
 <p align="left"> 
   <a href="https://discord.com/users/1093126786533031997" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://www.svgrepo.com/show/353655/discord-icon.svg" /> <img src="https://www.svgrepo.com/show/353655/discord-icon.svg" width="32" height="32" /> </picture> </a> 
