@@ -70,6 +70,10 @@ I'm Nesh.
 ![](https://github-readme-stats.vercel.app/api?username=EpicNesh26&theme=dark&hide_border=True&include_all_commits=True&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicNesh26&theme=dark&hide_border=True&include_all_commits=false&count_private=false&layout=compact)
 
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epicnesh16&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="epicnesh16" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=epicnesh16&show_icons=true&theme=dark&hide_border=true&locale=en" alt="epicnesh16" /></p>
 <br>
 
 ### Quote:
