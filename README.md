@@ -11,6 +11,8 @@ I'm Nesh.
 💡 I prioritize clean, collaborative software design for effective idea implementation.<br>
 🌐 Let's connect and work together on cool projects! Check out my portfolio and reach out for coding chats.<br>
 
+<br>
+
 * 🌍  I'm based in India
 * ✉️  You can contact me at [soninesh2006@gmail.com](mailto:soninesh2006@gmail.com)
 * 🧠  I'm learning MongoDB and Tensorflow in Python
