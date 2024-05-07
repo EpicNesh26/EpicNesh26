@@ -10,9 +10,7 @@ I'm Nesh.
 🚀 I thrive on creating flawless online solutions and always evolving.<br>
 💡 I prioritize clean, collaborative software design for effective idea implementation.<br>
 🌐 Let's connect and work together on cool projects! Check out my portfolio and reach out for coding chats.<br>
-
 <br>
-👯 Looking to collaborate.
 <pre>
 🌍 Based in India         💻 Crafting digital experiences.  👨‍💻 Coding with passion. 
 🤹 Digital craftsmanship. 🖥️ Tech innovation.               📈 strategic planning  
