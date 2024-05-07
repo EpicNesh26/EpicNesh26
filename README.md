@@ -10,8 +10,8 @@ Digital Craftsmen , Web Developer
 
 ## ✨About Me:
 
-👋 Full-Stack Web Developer with expertise in Python<br><br>
-🚀 I thrive on creating flawless online solutions and always evolving.<br><br>
+👋 Full-Stack Web Developer with expertise in Python<br>
+🚀 I thrive on creating flawless online solutions and always evolving.<br>
 💡 Beyond the code, I am an advocate for clean and maintainable software design. I believe in the power of collaboration and open communication to bring ideas to life effectively.<br><br>
 🌐 Let's connect and build something extraordinary together! Explore my portfolio to see some of my projects, and feel free to reach out for collaboration, advice, or just a good coding chat.<br><br>Happy coding! 🚀✨
 
