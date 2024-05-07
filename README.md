@@ -10,17 +10,12 @@ I'm Nesh.
 🚀 I thrive on creating flawless online solutions and always evolving.<br>
 💡 I prioritize clean, collaborative software design for effective idea implementation.<br>
 🌐 Let's connect and work together on cool projects! Check out my portfolio and reach out for coding chats.<br>
-<br>
 <pre>
 🌍 Based in India         💻 Crafting digital experiences.  👨‍💻 Coding with passion. 
 🤹 Digital craftsmanship. 🖥️ Tech innovation.               📈 strategic planning  
 </pre>
 
-* 🌍  I'm based in India
-* ✉️  You can contact me at [soninesh2006@gmail.com](mailto:soninesh2006@gmail.com)
-* 🧠  I'm learning MongoDB and Tensorflow in Python
-* 🤝  I'm open to collaborating on Innovative and Brainstrom Projects
-* ⚡  I'm Secretly a Batman ... But Dont tell anyone!!
+
 <br>
 
 ### 🌐 Socials:
