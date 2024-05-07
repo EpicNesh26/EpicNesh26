@@ -13,9 +13,10 @@ I'm Nesh.
 
 <br>
 👯 Looking to collaborate.
-
+<pre>
 🌍 Based in India         💻 Crafting digital experiences.  👨‍💻 Coding with passion. 
 🤹 Digital craftsmanship. 🖥️ Tech innovation.               📈 strategic planning  
+</pre>
 
 * 🌍  I'm based in India
 * ✉️  You can contact me at [soninesh2006@gmail.com](mailto:soninesh2006@gmail.com)
