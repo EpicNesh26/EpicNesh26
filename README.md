@@ -1,7 +1,7 @@
 ### Hi There!
 I'm Nesh.
 <br>
-Digital Craftsmen , Web Developer
+**[Digital Craftsmen , Web Developer]**
 
 
 ### About Me:
