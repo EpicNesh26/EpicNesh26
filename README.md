@@ -70,17 +70,18 @@ I'm Nesh.
 ![](https://github-readme-stats.vercel.app/api?username=EpicNesh26&theme=dark&hide_border=True&include_all_commits=True&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=EpicNesh26&theme=dark&hide_border=True&include_all_commits=false&count_private=false&layout=compact)
 
+<br>
 
 ### Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+<br>
 ### Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=EpicNesh26&limit=5&theme=dark&combine_all_yearly_contributions=true_width=200)
 <br>
 <br>
 
 ## You can help me by Donating
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/Epicnesh26) 
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black&hide_border=True)](https://www.buymeacoffee.com/Epicnesh26) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
