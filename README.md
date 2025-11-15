@@ -6,7 +6,7 @@ I'm Nesh.
 
 ### About Me:
 
-👋 **Full-Stack Web Developer** with expertise in **[Python 🐍]**. <br>
+👋 **Full-Stack Web Developer**. <br>
 🚀 I thrive on creating flawless online solutions and always evolving.<br>
 💡 I prioritize clean, collaborative software design for effective idea implementation.<br>
 🌐 Let's connect and work together on cool projects! Check out my profile and reach out for coding chats.<br>
